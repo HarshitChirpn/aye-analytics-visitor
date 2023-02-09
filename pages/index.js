@@ -20,9 +20,9 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico" />
                 <script async defer 
                 data-website-id = "63e3406a08756d9131644d57" 
-                src="https://ayeanalytics.frontend.web3bharat.xyz/aye-analytics.js" 
+                src="https://ayeanalytics.frontend.fair.dental/aye-analytics.js" 
                 data-host-url="https://ayeanalytics.backend.fair.dental" 
-                data-chat-url="https://ayeanalytics.frontend.web3bharat.xyz" 
+                data-chat-url="https://ayeanalytics.frontend.fair.dental" 
                 data-chat-enabled='true' >
                 </script>
             </Head>
