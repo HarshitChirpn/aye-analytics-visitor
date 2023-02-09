@@ -21,7 +21,7 @@ export default function Home() {
                 <script async defer 
                 data-website-id = "63e3406a08756d9131644d57" 
                 src="https://ayeanalytics.frontend.web3bharat.xyz/aye-analytics.js" 
-                data-host-url="http://ayeanalytics.backend.fair.dental" 
+                data-host-url="https://ayeanalytics.backend.fair.dental" 
                 data-chat-url="https://ayeanalytics.frontend.web3bharat.xyz" 
                 data-chat-enabled='true' >
                 </script>
